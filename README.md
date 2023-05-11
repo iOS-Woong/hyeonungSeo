@@ -8,7 +8,7 @@
 
 |No|프로젝트 Repo|기간|Step 1|Step 2|Step 3|Step 4|Step 5|Reviewer|
 |--|------|---|------|------|------|------|------|--------|
-|1|[Gyro-Data](https://github.com/zhilly11/ios-wanted-GyroData)|2주|[PR](https://github.com/zhilly11/ios-wanted-GyroData/blob/main/README.md5)|-|-|-|-|**nil**|
+|1|[Gyro-Data](https://github.com/zhilly11/ios-wanted-GyroData)|2주|[PR](https://github.com/zhilly11/ios-wanted-GyroData/blob/main/README.md)|-|-|-|-|**nil**|
 
 <br>
 
